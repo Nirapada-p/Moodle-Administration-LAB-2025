@@ -801,6 +801,7 @@ Programming, Python, Data Science
 ```bash
  รูปหน้า ผลการสร้าง User ใหม่
 ```
+<img width="937" height="682" alt="image" src="https://github.com/user-attachments/assets/8bb0e862-2575-467b-8ef6-d5af4929c274" />
 
 **วิธีที่ 2: Upload Users (CSV)**
 
@@ -824,6 +825,7 @@ student003,Pass@123,สมศักดิ์,ขยัน,student003@example.com
 ```bash
  รูปหน้า ผลการ Upload Users
 ```
+<img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/4a33e0a2-7be4-4771-a508-7f05e3eb7d09" />
 
 #### 6.4.3 การลงทะเบียนเรียน (Enrolment)
 
